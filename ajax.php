@@ -29,7 +29,7 @@ $message="<table width='800'>
   </tr>
  </table>
 ";
-   //$to = $email;
+   //$to = $email===============;
    $to = "info@kamnatechno.com";
    $subject = "contact info";
    $header = "From:info@kamnatechno.com\r\n";

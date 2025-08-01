@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
     font-family: "Lato", sans-serif;
-    color: #1e1859;
+    color: #000;
     line-height: 1.25;
     font-weight: 700;
 }
@@ -556,19 +556,30 @@ h2,
   padding: 5rem 3rem 16rem 4rem;
   margin-top: 8rem;
 }
-.hero_text h1{
+.font_26_text{
+    font-size: 26px;
+    color: #000;
+}
+.font_26_text span{
+    font-size: 26px;
+    font-weight: 800;
+    color: #000;
+}
+.hero_text a{
+     color: #00c3da;
     font-size: 62px;
     text-align: center;
+    width: 100%;
+    font-weight: 800;
+    margin: auto;
+    display: block;
 }
-.hero_text h1 a{
-    color: #00c3da;  
-}
-.hero_text h2{
+.hero_text h1{
    font-size: 28px;
     text-align: center;
     color: #000;
     font-weight: 400;
-    margin-bottom: 22px;
+    margin-bottom: 0px;
 }
 
 .word {
@@ -2392,6 +2403,14 @@ h2,
     font-family: "Roboto", sans-serif;
     margin-bottom: 8px;
 }
+.about_text2 h4 {
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 8px;
+}
+
 
 .why_fin2 {
     background-image: url(../img/arnav.jpg);
@@ -3226,6 +3245,12 @@ box-shadow: 0px 3px 7px 0px rgba(203, 203, 203, 0.72);
     text-align: left;
     margin-top: 34px;
  }
+ .ft_head{
+   font-size: 24px !important;
+    font-weight: 400; 
+    color: #000;
+    margin-bottom: 5px;
+ }
  .disclaimer-text{}
  .disclaimer-text h4{
     font-weight: 500;
@@ -3817,6 +3842,12 @@ section.scroll22 {
     font-weight: 400;
     padding-left: 15px;
 }
+.contact_text h3{
+    color: #000;
+}
+
+
+
 .about_text2 {
     background-color: #fff;
     padding: 10px;

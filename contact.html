@@ -557,7 +557,9 @@ var TxtType = function(el, toRotate, period) {
 
 
 
-
+<script>
+     $('.modal').on('hide.bs.modal', function() { var memory = $(this).html(); $(this).html(memory); })
+   </script>
 
     
 

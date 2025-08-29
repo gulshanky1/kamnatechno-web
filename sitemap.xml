@@ -1,79 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-    <loc>https://www.kamnatechno.com/</loc>
-    <priority>1.00</priority>
-  </url>
 
-  <url>
-    <loc>https://www.kamnatechno.com/about_us.html</loc>
-    <priority>0.80</priority>
-  </url>
+<url>
+  <loc>https://www.kamnatechno.com/</loc>
+  <lastmod>2025-08-29T11:36:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/about-us.html</loc>
+  <lastmod>2025-08-29T11:36:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/website-design-development.html</loc>
+  <lastmod>2025-08-29T11:36:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/search-engine-optimization.html</loc>
+  <lastmod>2025-08-29T11:36:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/social-media-marketing.html</loc>
+  <lastmod>2025-08-29T11:36:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/production-work.html</loc>
+  <lastmod>2025-08-29T11:36:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/digital-marketing.html</loc>
+  <lastmod>2025-08-29T11:36:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/graphic-design.html</loc>
+  <lastmod>2025-08-29T11:36:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/email-marketing.html</loc>
+  <lastmod>2025-08-29T11:36:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/ecommerce-account-management.html</loc>
+  <lastmod>2025-08-29T11:36:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/youtube-marketing.html</loc>
+  <lastmod>2025-08-29T11:36:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/whatsapp-marketing.html</loc>
+  <lastmod>2025-08-29T11:36:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/contact.html</loc>
+  <lastmod>2025-08-29T11:36:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/privacy-policy.html</loc>
+  <lastmod>2025-08-29T11:36:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/terms-use.html</loc>
+  <lastmod>2025-08-29T11:36:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.kamnatechno.com/index.html</loc>
+  <lastmod>2025-08-29T11:36:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-  <url>
-    <loc>https://www.kamnatechno.com/contact.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/website_design_development.html</loc>
-    <priority>0.90</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/search_engine_optimization.html</loc>
-    <priority>0.90</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/social_media_marketing.html</loc>
-    <priority>0.90</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/email_marketing.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/graphic_design.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/youtube_marketing.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/whatsapp_marketing.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/ecommerce_account_anagement.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/production_work.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/digital_marketing.html</loc>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/privacy_policy.html</loc>
-    <priority>0.50</priority>
-  </url>
-
-  <url>
-    <loc>https://www.kamnatechno.com/terms_use.html</loc>
-    <priority>0.50</priority>
-  </url>
 
 </urlset>
